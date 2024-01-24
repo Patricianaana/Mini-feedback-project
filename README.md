@@ -6,6 +6,6 @@ This is a mini feedback project that allows users to share their thoughts about 
 
 
 ### REQUIREMENTS
--- PHP
--- HTML
--- BOOTSTRAP 5
+--PHP
+--HTML
+--BOOTSTRAP 5
